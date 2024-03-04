@@ -1,16 +1,14 @@
-# dxh_test
+Featurs Completed:
+1. User Authentication
+2. Home Screen
+3. Product Details Screen
+4. Shopping Cart and order single product from order page(Both using local DB)
+5. Order History
+6. Search Functionality
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Because of not getting much time to work i wasn't able to complete bellow featurs.
+Not Completed:
+1. Checkout
+2. Push Notifications
+3. Offline Mode
